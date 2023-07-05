@@ -1,1 +1,1 @@
-My first readme
+cohort18 is exciting
